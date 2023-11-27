@@ -1,4 +1,4 @@
-# Portfolio
+# My Portfolio
 
 ## Education
 Bachelor of Engineering (Hons), University of New South Wales
@@ -23,10 +23,10 @@ investment and management solutions to stakeholders using predictive analysis an
 
 ## Additional Information
 Languages I Speak:
-English: Fluent
-Hindi: Fluent
-Spanish: Fluent
-Dutch: Level A2
-Marathi: Fluent
+- English: Fluent
+- Hindi: Fluent
+- Spanish: Fluent
+- Dutch: Level A2
+- Marathi: Fluent
 
   
